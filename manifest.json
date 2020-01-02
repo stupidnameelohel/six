@@ -1,0 +1,15 @@
+{
+    "name": "Six Digits",
+    "description": "Makes it easy to navigate to your favorite six digit viewer",
+    "version": "0.1",
+    "permissions": ["contextMenus", "tabs"],
+    "background": {
+      "scripts": ["six.js"]
+    },
+    "icons": {
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png",
+      "128": "assets/icon128.png"
+    },
+    "manifest_version": 2
+}
